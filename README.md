@@ -9,6 +9,14 @@ Visualizations: Graphs and charts that help tell a story with data.
 
 My portfolio
 A glimpse on what i have been working on
+Water Quality Analysis of Ogbe river (Ile-Ife, Osun state) Over Time and Environmental Conditions 
+[Lukman Adeola Water purification.xlsx](https://github.com/user-attachments/files/19179588/Lukman.Adeola.Water.purification.xlsx)
+[Presentation.pptx](https://github.com/user-attachments/files/19179594/Presentation.pptx)
+My dashoard-
+![1 dashboard](https://github.com/user-attachments/assets/713b40af-acbf-4848-af9a-4dc9b6eb6369)
+
+
+
 
 Lets connect
 EMAIL:Adeola_barakat@yahoo.com
