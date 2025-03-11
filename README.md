@@ -8,7 +8,7 @@ What You’ll Find Here
 Data Analysis Projects: Various analyses using excel and power bi.
 Visualizations: Graphs and charts that help tell a story with data.
 
-My portfolio
+My portfolio;
 A glimpse on what i have been working on
 Water Quality Analysis of Ogbe river (Ile-Ife, Osun state) Over Time and Environmental Conditions 
 [Water purification analysis-correlation and models.xlsx](https://github.com/user-attachments/files/19179588/Lukman.Adeola.Water.purification.xlsx)
