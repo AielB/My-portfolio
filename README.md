@@ -1,4 +1,4 @@
-Hello! I'm glad you're here. This repository showcases my projects and experiments in data analysis. 
+ Hello! I'm glad you're here. This repository showcases my projects and experiments in data analysis. 
 As a passionate learner, I’m dedicated to exploring new technologies and improving my skills.
 
 **ABOUT ME**
